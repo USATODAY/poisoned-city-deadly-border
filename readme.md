@@ -8,9 +8,9 @@ Here's more information about the data, how it was obtained, and how it was anal
 
 ### Mexicali Death Rates
 
-Data sources: Consejo Nacional de Población (CONAPO) 2010 - 2016 population, provided at the state and local level in response to requests from The Desert Sun.
+Data sources: Mexico's National Population Council (Consejo Nacional de Población, or CONAPO) 2010 - 2016 population, provided at the state and local level in response to requests from The Desert Sun.
 
-[INEGI](https://www.inegi.org.mx/datos/) Statistical Administrative Registries
+[Mexico's National Institute of Statistics and Geography (Instituto Nacional de Estadística y Geografía, or INEGI)](https://www.inegi.org.mx/datos/) Statistical Administrative Registries
 
 `Datos > Programas > Registros administrativos- estadísticas > Vitales > Mortalidad > Tabulados > Tabulados Interactivos > Mortalidad general`
 
@@ -36,7 +36,7 @@ Respiratory illnesses (all diseases classified J00-J99) are compared for Baja Ca
 
 ### Population Growth
 
-Data Sources: U.S. Census Bureau, [Mexican National Statistics and Geography Institute (INEGI)](https://www.inegi.org.mx/anterior/), [California Dept. of Finance Demographic Research Unit](http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-4/2010-18/), Mexican National Population Council (CONAPO)
+Data Sources: U.S. Census Bureau, [INEGI](https://www.inegi.org.mx/anterior/), [California Dept. of Finance Demographic Research Unit](http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-4/2010-18/), CONAPO
 
 **Mexico's population in 5-year increments from 1990 onward:**
 
@@ -74,7 +74,7 @@ Data for Calexico, California and the state of California are pulled from the [A
 
 ### Sediment analyses – Heavy metals, PAHs, PCBs, DDTs, DDEs
 
-Data Sources:  The [California Environmental Data Exchange Network](https://ceden.waterboards.ca.gov/AdvancedQueryTool); Schlenk, D., Bui, C., and Lamerdin, C. [Evaluation of Sediment, Water and Fish Tissue for Contaminant Levels in the Salton Sea and its Two Primary Tributaries, the Alamo River and New River from 2001-2012](https://www.waterboards.ca.gov/water_issues/programs/swamp/docs/reglrpts/ss_fnl_eval.pdf), Appendix A of Xu, E., Bui, C., Lamerdin, C. & Schlenk, D. (2016, July 15) Spatial and temporal assessment of environmental contaminants in water, sediments and fish of the Salton Sea and its two primary tributaries, California, USA, from 2002 to 2012. _Science of The Total Environment_, Volume 559 pages 130-140. [https://doi.org/10.1016/j.scitotenv.2016.03.144](https://doi.org/10.1016/j.scitotenv.2016.03.144)
+Data Sources:  The [California Environmental Data Exchange Network (CEDEN)](https://ceden.waterboards.ca.gov/AdvancedQueryTool); Schlenk, D., Bui, C., and Lamerdin, C. [Evaluation of Sediment, Water and Fish Tissue for Contaminant Levels in the Salton Sea and its Two Primary Tributaries, the Alamo River and New River from 2001-2012](https://www.waterboards.ca.gov/water_issues/programs/swamp/docs/reglrpts/ss_fnl_eval.pdf), Appendix A of Xu, E., Bui, C., Lamerdin, C. & Schlenk, D. (2016, July 15) Spatial and temporal assessment of environmental contaminants in water, sediments and fish of the Salton Sea and its two primary tributaries, California, USA, from 2002 to 2012. _Science of The Total Environment_, Volume 559 pages 130-140. [https://doi.org/10.1016/j.scitotenv.2016.03.144](https://doi.org/10.1016/j.scitotenv.2016.03.144)
 
 Email ZIP file with the following: RESULT CATEGORY "Water Quality"; Select County: Imperial; Program: Surface Water Ambient Monitoring Program; ParentProgram: SWAMP RWB7 and SWAMP Stream Pollution Trends; Date range: all available.
 
@@ -105,7 +105,7 @@ Similar to the metals analysis, these compounds are analyzed by site according t
 
 ### Hyalella Toxicity Testing
 
-Data Sources:  The [California Environmental Data Exchange Network](https://ceden.waterboards.ca.gov/AdvancedQueryTool);
+Data Sources:  [CEDEN](https://ceden.waterboards.ca.gov/AdvancedQueryTool);
 
 Email ZIP file with the following: RESULT CATEGORY: Toxicity; Program: Surface Water Ambient Monitoring Program; Parameter groups: Toxicity; Dates: select all available
 
@@ -146,17 +146,17 @@ Monthly fecal coliform bacteria counts are recorded for the New River using wate
 
 ### Spending on Wastewater
 
-Data source: North American Development Bank
+Data source: North American Development Bank (NADB)
 
-Jointly funded wastewater projects in Mexicali are analyzed, including U.S. government funding (from the Environmental Protection Agency through the Border Environment Infrastructure Fund), NADB-funded loans, and funding by Mexican government sources.
+Jointly funded wastewater projects in Mexicali are analyzed, including U.S. government funding (from the Environmental Protection Agency (EPA) through the Border Environment Infrastructure Fund (BEIF)), NADB-funded loans, and funding by Mexican government sources.
 
 Annual disbursements of EPA funding is charted for BEIF grants for wastewater projects.
 
 ### Sewage Spills
 
-Data source: International Boundary and Water Commission
+Data source: International Boundary and Water Commission (IBWC)
 
-Information about sewage spills was obtained from the U.S. Section of the International Boundary and Water Commission through a Freedom of Information Act request. The data provided on reported sewage spills included a mix of sewage volumes and flow rates.
+Information about sewage spills was obtained from the U.S. Section of the IBWC through a Freedom of Information Act request. The data provided on reported sewage spills included a mix of sewage volumes and flow rates.
 
 In cases when no estimated total volume was given, the estimated sewage spills are calculated based on the duration of the events.
 
@@ -176,7 +176,7 @@ In cases when no estimated total volume was given, the estimated sewage spills a
 
 ### Fines
 
-The Baja California Environmental Protection Department (Secretaría de Protección al Ambiente) released documents detailing inspections and fines during 2016 and 2017 in response to a request by The Desert Sun.
+The Baja California Environmental Protection Department (Secretaría de Protección al Ambiente de Baja California, or SPA) released documents detailing inspections and fines during 2016 and 2017 in response to a request by The Desert Sun.
 
 The documents were reviewed for information including whether a fine was issued or not, the type of business and the type of violation or irregularities described by regulators.
 
@@ -184,7 +184,7 @@ The 2016 and 2017 fines were listed in units including multiples of the current 
 
 ### Federal Pollution Emissions Database
 
-Mexico's Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales)[maintains a national database](https://www.gob.mx/semarnat/acciones-y-programas/registro-de-emisiones-y-transferencia-de-contaminantes-retc) of companies' self-reported information on emissions of air pollution, discharges of water pollution, waste that affects soil, and hazardous waste generated. This database, called the Registro de Emisiones y Transferencia de Contaminantes (Pollutant Release and Transfer Register), includes any of 104 substances that industries emit to the environment through air, water, and soil, or are transferred in wastewater or hazardous waste. This information is available in the online database for the subset of companies in Mexico that are regulated by the federal government, and includes data on the company name, industrial sector, year and the substance emitted or transferred.
+Mexico's Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, or SEMARNAT)[maintains a national database](https://www.gob.mx/semarnat/acciones-y-programas/registro-de-emisiones-y-transferencia-de-contaminantes-retc) of companies' self-reported information on emissions of air pollution, discharges of water pollution, waste that affects soil, and hazardous waste generated. This database, called the Registro de Emisiones y Transferencia de Contaminantes (Pollutant Release and Transfer Register), includes any of 104 substances that industries emit to the environment through air, water, and soil, or are transferred in wastewater or hazardous waste. This information is available in the online database for the subset of companies in Mexico that are regulated by the federal government, and includes data on the company name, industrial sector, year and the substance emitted or transferred.
 
 ## Air pollution analyses
 
@@ -212,7 +212,7 @@ PM2.5 hourly readings were selected from 2017, which is the most recent complete
 
 ### Air Quality Index comparison
 
-Data source: Imperial County Air Pollution Control District, U.S. Environmental Protection Agency
+Data source: Imperial County Air Pollution Control District, U.S. EPA
 
 Air-quality data for 2000 through 2016 was provided by the Imperial County Air Quality Control District. The data list air quality levels by data, location and Air Quality Index level of health concern.
 
