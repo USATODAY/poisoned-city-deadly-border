@@ -144,7 +144,7 @@ Data source: California Water Boards [Region 7 New River Water Quality Data](htt
 
 Monthly fecal coliform bacteria counts are recorded for the New River using water samples taken near the border. The concentrations of fecal coliform bacteria are measured with an estimation called "most probable number," or MPN, per 100 milliliters of water. The monthly results are displayed alongside California's safe swimming threshold, or state regulators' objective for freshwater, which is 400 (MPN) per 100mL. For some months, an average of multiple water tests is included.
 
-### Spending on Wastewater
+### Spending on Wastewater Projects
 
 Data source: North American Development Bank (NADB)
 
@@ -154,7 +154,7 @@ Annual disbursements of EPA funding is charted for BEIF grants for wastewater pr
 
 ### Sewage Spills
 
-Data source: International Boundary and Water Commission (IBWC)
+Data source: [International Boundary and Water Commission (IBWC)](https://github.com/USATODAY/poisoned-city-deadly-border/blob/master/IBWC%20Spill%20Data%20Mexicali.csv)
 
 Information about sewage spills was obtained from the U.S. Section of the IBWC through a Freedom of Information Act request. The data provided on reported sewage spills included a mix of sewage volumes and flow rates.
 
@@ -176,15 +176,15 @@ In cases when no estimated total volume was given, the estimated sewage spills a
 
 ### Fines
 
-The Baja California Environmental Protection Department (Secretaría de Protección al Ambiente de Baja California, or SPA) released documents detailing inspections and fines during 2016 and 2017 in response to a request by The Desert Sun.
+The Baja California Environmental Protection Department (Secretaría de Protección al Ambiente de Baja California, or SPA) [released documents detailing inspections and fines](https://www.documentcloud.org/public/search/projectid:41753-Desert-Sun-Mexicali-inspections-and-fines-records) during 2016 and 2017 in response to a request by The Desert Sun.
 
-The documents were reviewed for information including whether a fine was issued or not, the type of business and the type of violation or irregularities described by regulators.
+The documents were reviewed for information including whether a fine was issued or not, the type of business and the type of violation or irregularities described by regulators and aggregated into a [worksheet](https://github.com/USATODAY/poisoned-city-deadly-border/blob/master/Mexicali%20Inspections%20and%20Fines.csv).
 
 The 2016 and 2017 fines were listed in units including multiples of the current minimum (daily) wage or the UMA (unit of measurement), which financial indices are tied to in Mexico. These amounts were converted to pesos, and then converted to dollars using the Internal Revenue Service's average exchange rates for 2016 and 2017, at 19.435 and 19.679 pesos per dollar, respectively. The current minimum wage in 2016 was the same as the 2016 UMA at 73.04 pesos. In 2017 the current minimum wage was 80.04 pesos and the UMA was 75.49 pesos.
 
 ### Federal Pollution Emissions Database
 
-Mexico's Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, or SEMARNAT)[maintains a national database](https://www.gob.mx/semarnat/acciones-y-programas/registro-de-emisiones-y-transferencia-de-contaminantes-retc) of companies' self-reported information on emissions of air pollution, discharges of water pollution, waste that affects soil, and hazardous waste generated. This database, called the Registro de Emisiones y Transferencia de Contaminantes (Pollutant Release and Transfer Register), includes any of 104 substances that industries emit to the environment through air, water, and soil, or are transferred in wastewater or hazardous waste. This information is available in the online database for the subset of companies in Mexico that are regulated by the federal government, and includes data on the company name, industrial sector, year and the substance emitted or transferred.
+Mexico's Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, or SEMARNAT) [maintains a national database](https://www.gob.mx/semarnat/acciones-y-programas/registro-de-emisiones-y-transferencia-de-contaminantes-retc) of companies' self-reported information on emissions of air pollution, discharges of water pollution, waste that affects soil, and hazardous waste generated. This database, called the Registro de Emisiones y Transferencia de Contaminantes (Pollutant Release and Transfer Register), includes any of 104 substances that industries emit to the environment through air, water, and soil, or are transferred in wastewater or hazardous waste. This information is available in the online database for the subset of companies in Mexico that are regulated by the federal government, and includes data on the company name, industrial sector, year and the substance emitted or transferred.
 
 ## Air pollution analyses
 
@@ -214,7 +214,7 @@ PM2.5 hourly readings were selected from 2017, which is the most recent complete
 
 Data source: Imperial County Air Pollution Control District, U.S. EPA
 
-Air-quality data for 2000 through 2016 was provided by the Imperial County Air Quality Control District. The data list air quality levels by data, location and Air Quality Index level of health concern.
+[Air-quality data for 2000 through 2016](https://github.com/USATODAY/poisoned-city-deadly-border/blob/master/AQI%20Data%202000%20to%202016.csv) was provided by the Imperial County Air Quality Control District. The data list air quality levels by data, location and Air Quality Index level of health concern.
 
 The EPA tracks air quality and records it using this index. The EPA says the following about the [Air Quality Index](https://airnow.gov/): "The AQI is an index for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI focuses on health effects you may experience within a few hours or days after breathing polluted air. EPA calculates the AQI for five major air pollutants regulated by the Clean Air Act: ground-level ozone, particle pollution (also known as particulate matter), carbon monoxide, sulfur dioxide, and nitrogen dioxide. For each of these pollutants, EPA has established national air quality standards to protect public health. Ground-level ozone and airborne particles are the two pollutants that pose the greatest threat to human health in this country."
 
