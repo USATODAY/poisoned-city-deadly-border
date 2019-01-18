@@ -233,3 +233,7 @@ Each day is assigned a value, and these values are categorized as:
 301 to 500 = Hazardous
 
 A comparison was created by analyzing the AQI data for all available dates from monitoring sites in Brawley, Calexico, El Centro, Niland, and Westmorland, California, from 2003 to 2016. The analysis involved tallying the number of days that fall into each AQI category at each site, and calculating the percentage of days that register as anything higher than the "good" threshold of 0-50 (AQI > 50).
+
+## Hazardous waste shipments
+
+In response to a request from The Desert Sun under the Freedom of Information Act, the U.S. Environmental Protection Agency released 74 documents that were submitted by companies detailing their exports of hazardous waste to Mexico between 2012 and 2016. The EPA regulates the storage and disposal of hazardous waste under a 1976 law called the Resource Conservation and Recovery Act, and it collects annual reports from all companies that export hazardous waste. The documents released by the agency show American companies are shipping a steady stream of hazardous waste to facilities in Mexico.
